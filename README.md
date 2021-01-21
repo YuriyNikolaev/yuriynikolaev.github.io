@@ -1,2 +1,2 @@
-# yuriynikolaev.github.io
+# Юрий Николаев
 Мой первый сайт
