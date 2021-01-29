@@ -9,10 +9,10 @@
 
 [WillBerries](https://yuriynikolaev.github.io/willberries/ "Первая страница стайта willberries") - "Первая страница стайта willberries"
 Выполнил проект Николаев Юрий.
-В проекте использовались языки:
+##В проекте использовались языки:
 -HTML
 -CSS
 -JavaScript
-Библиотеки:
+###Библиотеки:
 -Bootstrap v.5
 - Swiper Slider JS
